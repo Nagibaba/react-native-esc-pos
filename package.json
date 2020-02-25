@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      "@leesiongchan/react-native-esc-pos@0.6.0",
+      "/Users/babeknaghiyev/Desktop/apps/fizza-queue-printer-master"
+    ]
+  ],
+  "_from": "@leesiongchan/react-native-esc-pos@0.6.0",
+  "_id": "@leesiongchan/react-native-esc-pos@0.6.0",
+  "_inBundle": false,
+  "_integrity": "sha512-sh8cGqzDRoviI0UJ0aPZNiv7Z5b+YSeC4dJCOcgUqvK4cIAiA3ZMJJOpKkaxVuL9uvD/gl6AOKJ23/9rg13R0w==",
+  "_location": "/@leesiongchan/react-native-esc-pos",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@leesiongchan/react-native-esc-pos@0.6.0",
+    "name": "@leesiongchan/react-native-esc-pos",
+    "escapedName": "@leesiongchan%2freact-native-esc-pos",
+    "scope": "@leesiongchan",
+    "rawSpec": "0.6.0",
+    "saveSpec": null,
+    "fetchSpec": "0.6.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@leesiongchan/react-native-esc-pos/-/react-native-esc-pos-0.6.0.tgz",
+  "_spec": "0.6.0",
+  "_where": "/Users/babeknaghiyev/Desktop/apps/fizza-queue-printer-master",
+  "author": {
+    "name": "Lee Siong Chan",
+    "email": "ahlee2326@me.com"
+  },
+  "bugs": {
+    "url": "https://github.com/leesiongchan/react-native-escpos/issues"
+  },
+  "description": "A React Native ESC/POS module to help you connect to your ESC/POS printer easily.",
+  "devDependencies": {
+    "react": "^16.5.0",
+    "react-native": "^0.59.4"
+  },
+  "homepage": "https://github.com/leesiongchan/react-native-escpos#readme",
+  "keywords": [
+    "bluetooth",
+    "esc/pos",
+    "network",
+    "printer",
+    "react-native",
+    "thermal printer"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@leesiongchan/react-native-esc-pos",
+  "peerDependencies": {
+    "react": "^16.5.0",
+    "react-native": ">=0.57.0-rc.0 <1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leesiongchan/react-native-escpos.git",
+    "baseUrl": "https://github.com/leesiongchan/react-native-escpos"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.6.0"
+}
